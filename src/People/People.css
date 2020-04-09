@@ -1,0 +1,14 @@
+.peeps {
+    width: 30%;
+    background-color: rgb(0, 119, 255);
+    text-align: center;
+    margin: auto;
+    padding: 2vh;
+    margin-top: 5vh;
+    box-shadow: 1px 2px rgb(4, 0, 255);
+  }
+  .peeps>input{
+      padding: 2vh;
+      border-radius: 2em;
+      outline: none;
+  }
